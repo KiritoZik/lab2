@@ -1,0 +1,2 @@
+class NotAZipFileError(OSError):
+    pass
